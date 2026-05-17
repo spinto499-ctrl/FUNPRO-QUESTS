@@ -1,0 +1,11 @@
+APP INVENTOR
+PaintPot(GP2):
+https://ai2a.appinventor.mit.edu/?locale=es_ES#5389753 
+Quiz(GP3):
+https://gallery.appinventor.mit.edu/?galleryid=ad9bed10-fd80-400a-bfbd-eb13fba26273
+Base de datos(GP6):
+https://gallery.appinventor.mit.edu/?galleryid=5d46f441-776b-4c48-933f-badc50315811
+Nonograma(GPK2):
+https://gallery.appinventor.mit.edu/?galleryid=f8cfa89d-9e7d-43cd-a458-50131a5fec5e
+
+
